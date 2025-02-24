@@ -9,7 +9,7 @@ This dataset was generated from one of my trading bots. Since I couldn't find an
 - **Depth:** 5% orderbook depth
 - **Included Data:**
   - **Timestamp** (Unix format)
-  - **BTC Price** (Coinbase)
+  - **BTC Price** (In US Dollar)
   - **Orderbook Delta** (5% depth calculation)
 
 ## 
