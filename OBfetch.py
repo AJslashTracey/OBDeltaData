@@ -7,13 +7,12 @@ def api_call_OB():
     }
 
     product_id = "BTC-USD"
-    endpoint = f"/products/{product_id}/book?level=2"  # Adjust the level if needed
+    endpoint = f"/products/{product_id}/book?level=2" 
 
     conn.request("GET", endpoint, payload, headers)
     res = conn.getresponse()
     data = res.read()
 
-    # Check for errors
     if res.status != 200:
         raise Exception(f"API call failed with status {res.status}: {data}")
 
