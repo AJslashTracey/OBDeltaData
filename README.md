@@ -19,4 +19,4 @@ I'm currently working on expanding the dataset to include a longer timeframe up 
 
 ##
 
-(In side of the OBfetch.py you can find the functions from my trading bot which fetch fetch the whole Orderbook with all resting orders and calculate the delta) 
+(Inside of the OBfetch.py file you can find the functions from my tradingbot that fetch the whole Orderbook with all resting orders and calculate the delta) 
