@@ -15,3 +15,6 @@ This dataset was generated from one of my trading bots. Since I couldn't find an
 ## Future Plans
 
 I'm currently working on expanding the dataset to include a longer timeframe up to a month or so
+
+
+(In side of the OBfetch.py you can find the functions from my trading bot which fetch fetch the whole Orderbook with all resting orders and calculate the delta) 
