@@ -12,7 +12,7 @@ This dataset was generated from one of my trading bots. Since I couldn't find an
   - **BTC Price** (Coinbase)
   - **Orderbook Delta** (5% depth calculation)
 
-## Future Plans
+## 
 
 I'm currently working on expanding the dataset to include a longer timeframe up to a month or so
 
