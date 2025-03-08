@@ -31,3 +31,7 @@ I'm currently working on expanding the dataset to include a longer timeframe up 
 ![2.5% Order Book Delta Depth](https://github.com/AJslashTracey/OBDeltaData/blob/main/2.5PercentDepth.png)
 # 5% Delta 
 ![5% Order Book Delta Depth](https://github.com/AJslashTracey/OBDeltaData/blob/main/5PercentDelta.png)
+
+# 1% Delta and 1h 40 EMA on 1 min Timframe with highlted changes 
+![5% Order Book Delta Depth](https://github.com/AJslashTracey/OBDeltaData/blob/main/output.png)
+
