@@ -24,6 +24,10 @@ I'm currently working on expanding the dataset to include a longer timeframe up 
 
 ![Dat preview](https://github.com/AJslashTracey/OBDeltaData/blob/main/Screenshot%202025-02-27%20at%2020.14.00.png)
 
+##
+# 1% Delta 
 ![1% Order Book Delta Depth](https://github.com/AJslashTracey/OBDeltaData/blob/main/1PercentDepth.png)
+# 2.5% Delta 
 ![2.5% Order Book Delta Depth](https://github.com/AJslashTracey/OBDeltaData/blob/main/2.5PercentDepth.png)
+# 5% Delta 
 ![5% Order Book Delta Depth](https://github.com/AJslashTracey/OBDeltaData/blob/main/5%25delta.csv)
