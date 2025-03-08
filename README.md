@@ -30,4 +30,4 @@ I'm currently working on expanding the dataset to include a longer timeframe up 
 # 2.5% Delta 
 ![2.5% Order Book Delta Depth](https://github.com/AJslashTracey/OBDeltaData/blob/main/2.5PercentDepth.png)
 # 5% Delta 
-![5% Order Book Delta Depth](https://github.com/AJslashTracey/OBDeltaData/blob/main/5%25delta.csv)
+![5% Order Book Delta Depth](https://github.com/AJslashTracey/OBDeltaData/blob/main/5PercentDelta.png)
