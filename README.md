@@ -1,6 +1,5 @@
 # Trading Bot based on Orderbook Delta 
 
-This dataset was generated from one of my trading bots. Since I couldn't find any publicly available orderbook delta data, I decided to publish this dataset. 
 
 ## Dataset Overview
 
