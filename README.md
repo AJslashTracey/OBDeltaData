@@ -26,7 +26,7 @@ OBDeltaData/
 
 ## 
 
-I'm currently working on expanding the dataset to include a longer timeframe up to a month or so
+I'm currently working on expanding the dataset to include a longer timeframe 
 
 
 ##
