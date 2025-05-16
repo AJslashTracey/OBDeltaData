@@ -9,9 +9,8 @@ OBDeltaData/
 │   ├── ohcl/          # OHLC data
 │   └── 2019.csv       # Historical data
 ├── docs/              # Documentation and visualizations
-│   └── imgs/          # Analysis images and charts
-└── src/               # Source code
-    └── OBfetch.py     # Orderbook data fetcher
+    └── imgs/          # Analysis images and charts
+
 ```
 
 ## Dataset Overview
@@ -31,7 +30,6 @@ I'm currently working on expanding the dataset to include a longer timeframe up 
 
 ##
 
-(Inside of the src/OBfetch.py file you can find the functions from my tradingbot that fetch the whole Orderbook with all resting orders and calculate the delta) 
 
 
 ![Dat preview](https://github.com/AJslashTracey/OBDeltaData/blob/main/docs/imgs/Screenshot%202025-02-27%20at%2020.14.00.png)
