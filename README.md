@@ -1,4 +1,5 @@
 # Trading Bot based on Orderbook Delta 
+(Just data provided in this repo no bot included)
 
 ## Repository Structure
 ```
