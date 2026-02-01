@@ -28,7 +28,7 @@ OBDeltaData/
 
 I'm currently working on expanding the dataset to include a longer timeframe 
 
-[real time data mining progress](https://customchart-production.up.railway.app/)
+[real time data mining progress](https://datamining-progress.up.railway.app/)
 
 ##
 
